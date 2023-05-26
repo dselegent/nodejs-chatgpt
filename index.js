@@ -12,7 +12,7 @@ app.use(cors())
 
 const configuration = new Configuration({
   organization: 'org-naoPNA7M04hBI688ukWqCNwh',
-  apiKey: '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',
+  apiKey: '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',
 })
 const openai = new OpenAIApi(configuration)
 
